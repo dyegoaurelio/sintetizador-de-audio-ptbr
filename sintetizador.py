@@ -1,7 +1,7 @@
 import pyttsx3
 
 speaker = pyttsx3.init()
-speaker.setProperty('voice', speaker.getProperty('voices')[54].id) 
+speaker.setProperty('voice', 'brazil') 
 speaker.setProperty('rate', 150)
 
 texto = open('texto.txt','r').read()
