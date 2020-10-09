@@ -2,7 +2,7 @@
 
 Um sintetetizador de voz Em português
 
-Para utilizar, basta criar um arquivo com o texto desejado e nome-lo 'texto.txt' e rodar o script
+Para utilizar, basta basta editar o arquivo 'texto.txt' e rodar o script
 
 Este script utliza a biblioteca pyttsx3
 
